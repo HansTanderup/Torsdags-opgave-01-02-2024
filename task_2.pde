@@ -1,0 +1,10 @@
+String teacherName = "Tess Løvgreen";
+int numberOfDays = 365;
+String cityName = "København";
+boolean isTrue = true;
+int minutesInADay = 60 * 24;
+double decimalNumber = 22.12;
+String greetingWithName = "Hej, jeg hedder " + teacherName;
+boolean isFalse = false;
+double sum = 2.2 + 33;
+char character = 'S';
